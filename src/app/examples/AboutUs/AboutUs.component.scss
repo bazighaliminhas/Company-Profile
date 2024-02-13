@@ -1,0 +1,191 @@
+.title1{
+    font-weight: 600;
+    color: #6498b0;
+}
+ .description1{
+    font-weight: 600;
+    color: #57646d;
+    font-size: 2.8em !important;
+}
+
+ .Services1 .card{
+
+        padding: 50px 25px 45px;
+        background-color: #fff;
+        border-radius: 15px;
+        box-shadow: 0px 3px 35px 0px rgba(0,0,0,.29);
+        width: 17rem;
+        height: 22rem;
+}
+
+
+
+.Services1 .card-body .snappromise{
+    display: flex;
+    margin: 25px 0px 0px 0px;
+    margin-left: 15px;
+}
+
+.Services1 .card-body .snappromise1{
+    display: flex;
+    margin: 25px 0px 0px 0px;
+    margin-left: 25px;
+}
+
+.Services1 .card-body .snappromise2{
+    display: flex;
+    margin: 25px 0px 0px 0px;
+    margin-left: 30px;
+}
+.Services1 .card-body .snappromise3{
+    display: flex;
+    margin: 25px 0px 0px 0px;
+    margin-left: 40px;
+}
+
+
+.snappromise p{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.snappromise1 p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 50px;
+}
+.snappromise2 p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 30px;
+}
+.snappromise3 p{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: -5px;
+}
+
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 0rem; 
+}
+
+.page-header {
+     
+     min-height: 0vh;
+}
+
+.card-img-top{
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+}
+
+
+/////////////Contact Us ///////////////////
+.ContactUs{
+    font-family: "Nunito",Sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 5px;
+    margin: 0 0 30px;
+}
+
+.headbefore {
+    font-family: "Nunito",Sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    // text-transform: capitalize;
+    line-height: 65px;
+    letter-spacing: -1px;
+    margin: 0 0 20px;
+    max-width: 500px;
+    
+}
+.headbefore{
+    background-image: linear-gradient(to right, #54595f,#6ec1e4);
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;
+}
+.YourName input{
+    border-radius: 50px;
+    background-color: rgba(255,255,255,.92);
+    border: none;
+    height: 50px;
+}
+
+.lightner{
+    
+    background-color: rgba(243,243,243,1);
+}
+
+.Message12 textarea {
+    border-radius: 30px;
+    background-color: rgba(255,255,255,.92);
+    border: none;
+    height: 142px;
+    min-height: 142px;
+}
+
+.leftsidetextarea{
+    padding-top: 50px;
+}
+
+.controlinput5{
+    margin-top: 40px;
+}
+.headingdescription p{
+    color: #7a7a7a;
+    font-family: "Nunito",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    margin: 0 0 -10px;
+    max-width: 719px;
+}
+
+.has-spinner{
+    background: linear-gradient(90deg,#54595f,#6ec1e4);
+    border-radius: 150px;
+    color: #fff;
+    font-family: 'Poppins';
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 300!important;
+    padding: 13px 46px!important;
+    height: 52px!important;
+    box-shadow: 0 6px 35px #5311AA73;
+    letter-spacing: .48px;
+    margin-top: 15px;
+    text-transform: capitalize;
+    float: right;
+    margin-top: 38px;
+}
+
+.Services1 .card:hover{
+    content: '';
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: #54595f;
+    background: linear-gradient(180deg,#54595f,#6ec1e4);
+    transition: all .45s;
+    border-radius: 15px;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }

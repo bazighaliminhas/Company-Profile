@@ -1,0 +1,102 @@
+.title1{
+    font-weight: 600;
+    color: #6498b0;
+}
+ .description1{
+    font-weight: 600;
+    color: #57646d;
+    font-size: 2.8em !important;
+}
+
+ .Services1 .card{
+
+        padding: 50px 25px 45px;
+        background-color: #fff;
+        border-radius: 15px;
+        box-shadow: 0px 3px 35px 0px rgba(0,0,0,.29);
+        width: 17rem;
+        height: 22rem;
+}
+
+.aux-modern-heading-divider {
+    height: 4px;
+    width: 25px;
+    margin-top: 15px;
+    background-color: transparent;
+    background-image: linear-gradient(270deg,#54595f,#6ec1e4);
+    border-radius: 15px;
+}
+
+.aux-modern-heading-divider1 {
+    height: 4px;
+    width: 25px;
+    margin-top: 15px;
+    background-color: transparent;
+    background-image: linear-gradient(270deg,#6ec1e4, #54595f);
+    border-radius: 15px;
+}
+
+.Services1 .card-body .snappromise{
+    display: flex;
+    margin: 25px 0px 0px 0px;
+    margin-left: 15px;
+}
+
+.Services1 .card-body .snappromise1{
+    display: flex;
+    margin: 25px 0px 0px 0px;
+    margin-left: 25px;
+}
+
+.Services1 .card-body .snappromise2{
+    display: flex;
+    margin: 25px 0px 0px 0px;
+    margin-left: 30px;
+}
+.Services1 .card-body .snappromise3{
+    display: flex;
+    margin: 25px 0px 0px 0px;
+    margin-left: 40px;
+}
+
+
+.snappromise .card-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.snappromise1 .card-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.snappromise2 .card-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.snappromise3 .card-title{
+    
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 0rem; 
+}
+
+.page-header{
+    min-height: 70vh !important;
+    // min-height: 40vh!important;
+    background-size: cover;
+    background-position:  center center; 
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.card-link{
+    color: rgb(255, 162, 0);
+    font-weight: bold;
+}
